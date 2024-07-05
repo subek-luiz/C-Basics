@@ -1,0 +1,1 @@
+This is a example that shows how put function can be used to write data in a file. It reads data as a char and puts that data in the file.
